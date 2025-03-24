@@ -1,0 +1,3 @@
+name = "voxmind-chatbot"
+type = "javascript"
+main = "index.html"
